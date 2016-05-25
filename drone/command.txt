@@ -1,0 +1,3 @@
+mode auto
+wp load wp.txt
+wp set 1
